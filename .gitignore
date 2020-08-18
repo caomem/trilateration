@@ -1,0 +1,9 @@
+# Windows directory control files
+**/desktop.ini
+
+# Some trash
+BP.c
+test*
+
+# Visual studio code control
+.vscode
